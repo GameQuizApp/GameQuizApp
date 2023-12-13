@@ -4,7 +4,7 @@
 
 ## Sobre Nosotros
 
-Somos un equipo de tres estudiantes y semi-desarrolladores con afición por los videojuegos y la tecnología. En este perfil, compartimos nuestros avances en el proyecto GameQuizApp, un proyecto con el que pretendemos aprender muchas cosas sobre el desarrollo de aplicaciones y sus distintos ámbitos, y sobre cómo trabajar en equipo en un proyecto de desarrollo, además de crear una gran aplicación que ofrezca la mejor experiencia.
+Somos un equipo de tres estudiantes y semi-desarrolladores con afición por los videojuegos y la tecnología. En este perfil, compartimos nuestros avances en el proyecto GameQuiz, un proyecto con el que pretendemos aprender muchas cosas sobre el desarrollo de aplicaciones y sus distintos ámbitos, y sobre cómo trabajar en equipo en un proyecto de desarrollo, además de crear una gran aplicación que ofrezca la mejor experiencia.
 
 ## Integrantes del Equipo
 
